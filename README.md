@@ -8,7 +8,7 @@ Project developed during the course [Building Android/iOS/Web Apps with Flutter 
 ## Languages and Tools  
 <div>
   <a href="https://dart.dev/" target="_blank">
-    <img style="margin: 20px" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="Dart" height="50" />
+    <img style="margin: 20px" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart" height="50" />
   </a>
   <a href="https://flutter.dev/" target="_blank">
     <img style="margin: 20px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" height="50" />
